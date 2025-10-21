@@ -1,4 +1,4 @@
-# RoboVerse Documentation
+# MagicSim Documentation
 
 1. Install the dependencies
 
